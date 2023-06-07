@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: celestial_conquest
+Specification-Vendor: celestial_conquestsareus
+Specification-Version: 1
+Implementation-Title: Forge
+Implementation-Version: 0.1-1.19.3
+Implementation-Vendor: celestial_conquestsareus
+Implementation-Timestamp: 2023-06-07T00:08:46-0400
+
